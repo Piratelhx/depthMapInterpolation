@@ -1,3 +1,0 @@
-/home/lhx/project/pointnet-autoencoder/depth_map_interpolation/data/interpolation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lhx/project/pointnet-autoencoder/depth_map_interpolation/data/interpolation/cmake-build-debug/CMakeFiles/interpolation.dir
-/home/lhx/project/pointnet-autoencoder/depth_map_interpolation/data/interpolation/cmake-build-debug/CMakeFiles/edit_cache.dir
