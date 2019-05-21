@@ -1,2 +1,2 @@
 # PointPreprocess
-Some important mesure to deal with point cloud
+Some important tools to deal with point cloud
